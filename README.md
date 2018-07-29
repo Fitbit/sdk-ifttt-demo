@@ -1,7 +1,9 @@
 # sdk-ifttt-demo
 
-SDK example which demonstrates how to trigger an IFTTT Webhook from a Fitbit OS
-device.
+SDK example which demonstrates how to call a web service (REST API) using
+`fetch()`.
+
+This project can trigger an IFTTT Webhook using a Fitbit OS device.
 
 In order to use this demo app, you must create an applet in IFTTT.
 
