@@ -1,0 +1,6 @@
+<svg class="background">
+  <text x="50%" y="50" class="medium-copy-bold">IFTTT Demo</text>
+  <use id="btn" href="#square-button" y="$" fill="fb-green">
+    <set href="#text" attributeName="text-buffer" to="Trigger!" />
+  </use>
+</svg>

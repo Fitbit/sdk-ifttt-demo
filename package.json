@@ -1,0 +1,20 @@
+{
+  "fitbit": {
+    "appType": "app",
+    "appDisplayName": "IFTTT Demo",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "IFTTT Demo"
+      }
+    }
+  }
+}
